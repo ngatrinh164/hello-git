@@ -1,7 +1,7 @@
 import { listDirectoryFiles } from '@adonisjs/core/build/standalone'
 import Application from '@ioc:Adonis/Core/Application'
 
-/*
+/*csacdsacasd
 |--------------------------------------------------------------------------
 | Exporting an array of commands
 |--------------------------------------------------------------------------
